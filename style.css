@@ -7,6 +7,7 @@ body {
 }
 a { color: #D84C47; }
 a:hover { color: #D84C47;}
+h3 { color: #E0E0E0; }
 
 /* Classes */
 .main {
@@ -16,14 +17,12 @@ a:hover { color: #D84C47;}
 	background-image: url('images/hero.png');
 	-webkit-box-shadow: 0px 1px 12px 0px rgba(0, 0, 0, 0.5);
 	box-shadow: 0px 1px 12px 0px rgba(0, 0, 0, 0.5);
-	height: 450px;
+	min-height: 450px;
 	color: white;
 	font-family: Helvetica, Arial, sans-serif;
 }
 .nobg {	background-image: none; }
-.buttonNav { 
-	padding-top: 25px;
-}
+.buttonNav { padding-top: 25px; }
 
 /* Small Elements */
 .title { padding: 70px 50px; }
@@ -31,6 +30,7 @@ a:hover { color: #D84C47;}
 .title h1 { font-size: 50px; text-shadow: 2px 2px 20px #000000; }
 .twitter-icon { background-image: url('assets/img/icon-twitter.png'); width: 18px; height: 20px; margin-right: 8px; }
 .sub { padding: 20px; padding-top: 25px; }
+.spacer { height: 50px; }
 
 /* Personal Hacks */
 .center { text-align: center; }
