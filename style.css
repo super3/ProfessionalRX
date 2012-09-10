@@ -5,6 +5,8 @@ body {
 	padding-top: 100px;
 	background-image: url('images/background.png');
 }
+a { color: #D84C47; }
+a:hover { color: #D84C47;}
 
 /* Classes */
 .main {

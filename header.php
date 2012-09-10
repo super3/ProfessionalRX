@@ -36,10 +36,10 @@ else { echo '<div class="main container">'; }
 ?>
 
 	<div class="btn-group" style="margin: -10px; margin-top: -13px;">
-		<a href="index.php" class="btn btn-large"><i class="icon-home"></i> Home</a href="javascript://">
-		<a href="microblog.php" class="btn btn-large"><i class="icon-bold"></i> MicroBlog</a href="javascript://">
-		<a href="javascript://" class="btn btn-large"><i class="icon-list-alt"></i> Services</a href="javascript://">
-		<a href="testimonials.php" class="btn btn-large"><i class="icon-user"></i> Testimonials</a href="javascript://">
-		<a href="contact.php" class="btn btn-large"><i class="icon-envelope"></i> Contact</a href="javascript://">
-		<a href="javascript://" class="btn btn-large"><i class="icon-shopping-cart"></i> E-Commerce</a href="javascript://">
+		<a href="index.php" class="btn btn-large"><i class="icon-home"></i> Home</a>
+		<a href="microblog.php" class="btn btn-large"><i class="icon-bold"></i> MicroBlog</a>
+		<a href="services.php" class="btn btn-large"><i class="icon-list-alt"></i> Services</a>
+		<a href="testimonials.php" class="btn btn-large"><i class="icon-user"></i> Testimonials</a>
+		<a href="contact.php" class="btn btn-large"><i class="icon-envelope"></i> Contact</a>
+		<a href="commerce.php" class="btn btn-large"><i class="icon-shopping-cart"></i> E-Commerce</a>
 	</div>

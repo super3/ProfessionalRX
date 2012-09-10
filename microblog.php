@@ -31,6 +31,6 @@
 		}).render().setUser('TheProRx').start();
 		</script>
 	</div>
-	<a href="#" class="btn btn-danger btn-large"><div class="twitter-icon left"></div> Follow Us</a>
+	<a href="https://twitter.com/TheProRx" class="btn btn-danger btn-large"><div class="twitter-icon left"></div> Follow Us</a>
 </div>
 <?php include_once('footer.php'); ?>
